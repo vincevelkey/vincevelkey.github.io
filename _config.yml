@@ -23,7 +23,7 @@ repository               : "vincevelkey/vincevelkey.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  #name             : "Vince Velkey"
+  name             : "Vince Velkey"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ UCL, Gatsby Unit"
   location         : "London, United Kingdom"
@@ -75,7 +75,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light"
+    #colorscheme          : # "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
