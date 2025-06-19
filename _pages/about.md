@@ -44,3 +44,5 @@ Current Research
 
 - [Colloquium Logicum](https://colloquiumlogicum2020.wordpress.com/), Konstanz, Germany — September 2022  
   *Contributed talk: Infinite games in set theory*
+
+- [Summer School: C*-Dynamics and set theory](https://cdynamicsandsettheoryinparis.wordpress.com/logic-and-c-dynamics/), Paris, France — July 2022
