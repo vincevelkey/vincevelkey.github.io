@@ -9,16 +9,19 @@ redirect_from:
 Hi, and welcome to my homepage. 
 
 I am a PhD Candidate in Machine Learning at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) at University College London, advised by Prof. [Peter Orbanz](https://www.gatsby.ucl.ac.uk/~porbanz/).
-My PhD research focuses on mathematical aspects of Bayesian statistics and probabilistic machine learning. Currently, I work on de Finetti-style representation theorems for symmetric random structures, with an emphasis on finite exchangeability and also exploring symmetries beyond exchangeability. More broadly, I am interested in Bayesian nonparametric methods and statistical aspects of random network models. I also have some interests in optimal transport and causal inference.
 
-Previously, I obtained a BA and MMath in mathematics from Cambridge focusing on pure mathematics, especially functional analysis. I also took the interdisciplinary [Logic Year](https://msclogic.illc.uva.nl/programme/logic-year/) programme at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam.
+My research focuses on mathematical foundations of Bayesian statistics and probabilistic machine learning. Currently, I work on de Finetti-style representation theorems for symmetric random structures, with an emphasis on finite exchangeability, and symmetries beyond exchangeability.
+
+More broadly, I am interested in Bayesian nonparametric methods and statistical aspects of random network models. I also have some interests in optimal transport and causal inference.
+
+Previously, I completed a BA and MMath in mathematics from Cambridge specialising in pure mathematics, especially functional analysis. I also took the interdisciplinary [Logic Year](https://msclogic.illc.uva.nl/programme/logic-year/) programme at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam, focusing on machine learning.
 
 Current Research
 ======
 *Exchangeability, graph limits and exponential families*
 
- I use tools from functional analysis and information theory to to study problems in exchangeability theory. My work makes explicit the analogy between de Finetti-style representation theorems for a broad class of symmetric random structures, including
- exchangeable and partially exchangeable sequences and exchangeable graphs and their finite exchangeable counterparts. Preprint in preparation.
+ I use tools from functional analysis and information theory to to study problems in exchangeability theory. My work makes explicit the analogy between de Finetti-style representation theorems for a broad class of symmetric random structures. That includes
+ infinite exchangeable and partially exchangeable sequences, infinite exchangeable graphs and their finite exchangeable counterparts. Preprint in preparation.
 
  Teaching
 ======
@@ -34,10 +37,10 @@ Current Research
 - [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/), Los Angeles, USA — June 2025  
   *Poster presentation: Finite exchangeability, de Finetti's theorem and exponential families*
 
-- [SLMath Workshop on Detection, Estimation and Reconstruction in Networks](https://www.slmath.org/workshops/1098#), Online — April 2025
+- [SLMath Workshop on Detection, Estimation and Reconstruction in Networks](https://www.slmath.org/workshops/1098#), Online — April&nbsp; 2025
 
 - [StatML - Bocconi Spring School](https://statml.io/our-events/spring-school/), Windsor, UK — April 2025  
   *Courses attended: Computational Optimal Transport; Learning with Missing Values*
 
 - [Colloquium Logicum](https://colloquiumlogicum2020.wordpress.com/), Konstanz, Germany — September 2022  
-  *Contributed talk: "Infinite games in set theory"*
+  *Contributed talk: Infinite games in set theory*
