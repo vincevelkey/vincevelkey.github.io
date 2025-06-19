@@ -14,7 +14,7 @@ My research focuses on mathematical aspects of probabilistic machine learning an
 
 More broadly, I am interested in Bayesian nonparametric methods and statistical aspects of random network models. I also have some interests in optimal transport and causal inference.
 
-Previously, I completed a BA and MMath in mathematics from Cambridge specialising in pure mathematics, particularly functional analysis. I also took the interdisciplinary [Logic Year](https://msclogic.illc.uva.nl/programme/logic-year/) programme at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam, focusing on machine learning.
+Previously, I completed a BA and MMath in mathematics at Cambridge, specialising in pure mathematics, particularly functional analysis. I also took the interdisciplinary [Logic Year](https://msclogic.illc.uva.nl/programme/logic-year/) programme at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam, focusing on machine learning.
 
 Current Research
 ======
@@ -31,7 +31,7 @@ Current Research
 - [Theoretical Neuroscience](https://www.gatsby.ucl.ac.uk/teaching/courses/tn1-2025/index.html) — Teaching Assistant, 2025
 
 
- Events
+ Academic Activities
 ======
 
 - [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/), Los Angeles, USA — June 2025  
