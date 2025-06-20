@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vince Velkey homepage"
+title: "Vince Velkey"
 author_profile: true
 description: "Homepage of Vince Velke, PhD candidate in Machine Learning at UCL, doing research on Bayesian statistics and network models."
 redirect_from: 
