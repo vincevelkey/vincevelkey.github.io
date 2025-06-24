@@ -11,7 +11,7 @@ Hi, and welcome to my homepage.
 
 I am a PhD Candidate in Machine Learning at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) at University College London, advised by Prof. [Peter Orbanz](https://www.gatsby.ucl.ac.uk/~porbanz/).
 
-My research focuses on mathematical aspects of probabilistic machine learning and Bayesian statistics. Currently, I am working on de Finetti-style representation theorems for symmetric random structures, with an emphasis on finite exchangeability and exchangeable structures beyond sequences.
+My research focuses on the probabilistic foundations of machine learning and Bayesian statistics. Currently, I am working on de Finetti-style representation theorems for symmetric random structures, with an emphasis on finite exchangeability and exchangeable structures beyond sequences.
 
 More broadly, I am interested in Bayesian nonparametric methods and statistical aspects of random network models. I also have some interests in optimal transport and causal inference.
 
@@ -22,7 +22,7 @@ Current Research
 *Exchangeability, graph limits and exponential families*
 
  I use tools from functional analysis and information theory to study problems in exchangeability theory. My work makes explicit the analogy between de Finetti-style representation theorems for a broad class of symmetric random structures. That includes
- infinite exchangeable and partially exchangeable sequences, infinite exchangeable graphs and their finite exchangeable counterparts. Preprint in preparation.
+ exchangeable and partially exchangeable sequences, exchangeable graphs. I derive integral representation results for their finite exchangeable counterparts. Preprint in preparation.
 
  Teaching
 ======
