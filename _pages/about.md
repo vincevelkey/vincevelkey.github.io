@@ -22,7 +22,9 @@ Current Research
 *Exchangeability, graph limits and exponential families*
 
  I use tools from functional analysis and information theory to study problems in exchangeability theory. My work makes explicit the analogy between de Finetti-style representation theorems for a broad class of symmetric random structures. That includes
- exchangeable and partially exchangeable sequences, exchangeable graphs. I derive integral representation results for their finite exchangeable counterparts. Preprint in preparation.
+ exchangeable and partially exchangeable sequences, exchangeable graphs. I derive integral representation results for their finite exchangeable counterparts. 
+ 
+ Preprint in preparation. A draft version is available [here](files/deFinetti_draft.pdf).
 
  Teaching
 ======
