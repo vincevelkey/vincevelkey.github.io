@@ -19,12 +19,21 @@ Previously, I completed a BA and MMath in mathematics at Cambridge, specialising
 
 Current Research
 ======
+*Exchangeable graphs and predictive Bayesian inference*
+
+Building on my previous project, I use the theory of graph limits to study martingale posteriors for graph data. 
+
+*Cocycles under confounding.*
+
+We extend a recent counterfactual modeling framework based on cocycles that bridges the gap between transport based methods and structural causal models. We seek to cover the classical cases of confounding, such as IV, Back-door or Front-door.
+
 *Exchangeability, graph limits and exponential families*
 
  I use tools from functional analysis and information theory to study problems in exchangeability theory. My work makes explicit the analogy between de Finetti-style representation theorems for a broad class of symmetric random structures. That includes
  exchangeable and partially exchangeable sequences, exchangeable graphs. I derive integral representation results for their finite exchangeable counterparts. 
  
- Preprint in preparation. A draft version is available [here](files/deFinetti_draft.pdf).
+ Preprint in preparation.
+
 
  Teaching
 ======
@@ -36,9 +45,11 @@ Current Research
 
  Academic Activities
 ======
-
+- [EPFL Graduate Summer School: Mathematical Aspects of Data Science](https://mathsdata2025.github.io/), Lausanne, Switzerland — September 2025 
+*Selected Minicourses: Random matrices and tensor PCA, Feature learning and overfitting, Diffusion flows and optimal transport in machine learning*
 - [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/), Los Angeles, USA — June 2025  
   *Poster presentation: Finite exchangeability, de Finetti's theorem and exponential families*
+   **Best Poster Award: Overall 1st Prize**
 
 - [SLMath Workshop on Detection, Estimation and Reconstruction in Networks](https://www.slmath.org/workshops/1098#), Online — April&nbsp; 2025
 
