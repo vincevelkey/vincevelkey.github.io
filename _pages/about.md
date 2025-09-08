@@ -21,11 +21,11 @@ Current Research
 ======
 *Exchangeable graphs and predictive Bayesian inference*
 
-Building on my previous project, I use the theory of graph limits to study martingale posteriors for graph data. 
+Building on my previous project, I use the tools from graph limits theory to study martingale posteriors for graph data. 
 
 *Cocycles under confounding.*
 
-We extend a recent counterfactual modeling framework based on cocycles that bridges the gap between transport based methods and structural causal models. We seek to cover the classical cases of confounding, such as IV, Back-door or Front-door.
+We extend a recent counterfactual modeling framework based on cocycles that bridges the gap between transport based methods and structural causal models. We seek to cover some classical cases of confounding, such as IV, Back-door or Front-door.
 
 *Exchangeability, graph limits and exponential families*
 
@@ -45,11 +45,11 @@ We extend a recent counterfactual modeling framework based on cocycles that brid
 
  Academic Activities
 ======
-- [EPFL Graduate Summer School: Mathematical Aspects of Data Science](https://mathsdata2025.github.io/), Lausanne, Switzerland — September 2025 
+- [EPFL Graduate Summer School: Mathematical Aspects of Data Science](https://mathsdata2025.github.io/), Lausanne, Switzerland — September 2025  
 *Selected Minicourses: Random matrices and tensor PCA, Feature learning and overfitting, Diffusion flows and optimal transport in machine learning*
 - [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/), Los Angeles, USA — June 2025  
-  *Poster presentation: Finite exchangeability, de Finetti's theorem and exponential families*
-   **Best Poster Award: Overall 1st Prize**
+  *Poster presentation: Finite exchangeability, de Finetti's theorem and exponential families*  
+  **Best Poster Award: Overall 1st Prize**
 
 - [SLMath Workshop on Detection, Estimation and Reconstruction in Networks](https://www.slmath.org/workshops/1098#), Online — April&nbsp; 2025
 
